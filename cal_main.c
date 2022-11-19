@@ -7,6 +7,7 @@ int main(int argc, char *argv[])
     int a = atoi(argv[1]);
     int b = atoi(argv[2]);
 
+    printf("sungmini git test1!\n");
     printf("<===============>\n");
     printf("<===============>\n");
     printf("<===============>\n");
@@ -16,6 +17,8 @@ int main(int argc, char *argv[])
     printf("%d * %d => %d\n", a, b, mul(a, b));
     printf("%d / %d => %d\n", a, b, dur(a, b));
     printf("===============\n");
+    printf("I LOVE THIS CLASS!!!!\n");
+
 
     return 0;
 }
